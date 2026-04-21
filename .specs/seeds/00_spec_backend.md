@@ -1,7 +1,6 @@
 # Node backend boilerplate 
 
 # Contexto | Context
-
 Gerar um projeto base de Node (boilerplate), utilizando npm, Typescript, tsx e Express.
 
 ## Estrutura | Structure
@@ -18,17 +17,12 @@ backend/
 ```
 
 ## Tech Stack | Tecnologias
-
 * **node.js** - runtime
-
 * **npm** - gerenciador de pacotes
-
 * **typescript** - linguagem de programação
 
 ## Bibliotecas | Packages
-
 * **tsx** - TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js
-
 * **express**  Fast, unopinionated, minimalist web framework for Node.js
 
 ## Scripts base | Scripts Default 
