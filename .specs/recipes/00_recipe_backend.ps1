@@ -15,8 +15,8 @@ New-Item -ItemType Directory -Path src/routes -Force | Out-Null
 npm init -y
 
 # Instalar dependências
-npm install express
-npm install -D typescript tsx @types/node @types/express
+npm install express cors dotenv
+npm install -D typescript tsx @types/node @types/express @types/cors
 
 # Criar tsconfig.json simples
 @"
